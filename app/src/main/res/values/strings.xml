@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NTTC</string>
+
+    <string name="str_identity_manual_img_dialog_camera">相机</string>
+    <string name="str_identity_manual_img_dialog_gallary">相册</string>
+    <string name="dialog_personal_center_logout_cancel">取消</string>
+</resources>

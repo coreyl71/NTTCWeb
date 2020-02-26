@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_4">#0A000000</color>
+    <color name="black_8">#14000000</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_15">#26000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="white_4">#0AFFFFFF</color>
+    <color name="white_8">#14FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_16">#29FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_35">#59FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!--Identity begin-->
+    <color name="bg_dark_entrance_2">#0D131E</color>
+    <color name="bg_dark_entrance_2_70">#B30D131E</color>
+    <color name="bg_dark_entrance_70">#B30E1624</color>
+    <color name="color_text_gray">#636875</color>
+    <color name="color_text_green">#01D0B4</color>
+    <color name="color_text_green_35">#5901D0B4</color>
+    <color name="color_text_gray_recharge_withdraw_unable">#484F62</color>
+    <color name="color_text_gray_recharge_withdraw_unable_50">#80484F62</color>
+    <color name="text_forget_pwd">#395484</color>
+    <color name="color_dialog_item_text">#212121</color>
+    <!--Identity begin-->
+</resources>
